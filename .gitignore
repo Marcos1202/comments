@@ -1,0 +1,13 @@
+apps/post/migrations/*
+apps/appcomments/migrations/*
+
+
+apps/post/__pycache__/*
+apps/appcomments/__pycache__/*
+
+db.sqlite3
+
+comments/__pycache__/*
+
+
+
